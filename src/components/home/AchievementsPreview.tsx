@@ -29,7 +29,7 @@ export default function AchievementsPreview({ achievements, content }: { achieve
             {get("achievements.title", "Recognition built on meaningful care")}
           </motion.h2>
           <motion.p variants={fadeInUp} className="mx-auto mt-5 max-w-2xl text-base leading-7 text-slate-600 dark:text-slate-300" data-cms-key="achievements.description" data-cms-label="Achievements introduction">
-            {get("achievements.description", "New qualifications, research, awards and moments from Dr. Rudra’s continuing wellness journey.")}
+            {get("achievements.description", "New qualifications, research, awards and moments from Dr. Swathy Priya’s continuing wellness journey.")}
           </motion.p>
         </motion.div>
 

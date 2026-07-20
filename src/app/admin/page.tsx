@@ -247,8 +247,8 @@ export default function AdminStudioPage() {
         <div className="flex items-center justify-between">
           <div className="flex items-center gap-3">
             {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src="/images/rudra-logo.svg" alt="Dr. Rudra logo" className="h-12 w-12 rounded-full" />
-            <div><p className="font-black">Admin Studio</p><p className="text-xs font-semibold text-pink-600">Dr. Rudra Wellness</p></div>
+            <img src="/images/rudra-logo.svg" alt="Dr. Swathy Priya logo" className="h-12 w-12 rounded-full" />
+            <div><p className="font-black">Admin Studio</p><p className="text-xs font-semibold text-pink-600">Dr. Swathy Priya Wellness</p></div>
           </div>
           <button onClick={() => setMenuOpen(false)} className="rounded-full bg-pink-50 p-2 lg:hidden"><X className="h-4 w-4" /></button>
         </div>
@@ -288,7 +288,7 @@ export default function AdminStudioPage() {
               {tab === "overview" && (
                 <motion.section key="overview" initial={{ opacity: 0, y: 12 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }}>
                   <div className="overflow-hidden rounded-[2.25rem] bg-gradient-to-br from-pink-700 via-pink-600 to-rose-500 p-7 text-white shadow-2xl shadow-pink-500/20 sm:p-10">
-                    <p className="text-xs font-black uppercase tracking-[0.2em] text-pink-100">Welcome, Dr. Rudra</p>
+                    <p className="text-xs font-black uppercase tracking-[0.2em] text-pink-100">Welcome, Dr. Swathy Priya</p>
                     <h2 className="mt-3 max-w-3xl text-3xl font-black tracking-[-0.04em] sm:text-5xl">You are in complete control of your website.</h2>
                     <p className="mt-4 max-w-2xl text-sm leading-6 text-pink-50 sm:text-base">Use the field editor for structured content or open Visual Page Editor to click any visible text or image and publish a change instantly.</p>
                     <div className="mt-7 flex flex-wrap gap-3">

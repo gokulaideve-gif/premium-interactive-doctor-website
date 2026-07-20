@@ -123,7 +123,7 @@ export default function HeroSectionV2({ content }: HeroProps) {
               </Link>
               <Link href="/about" className="flex items-center gap-2 rounded-full border border-pink-200 bg-white/80 px-7 py-4 text-sm font-bold text-slate-800 shadow-sm backdrop-blur-lg transition hover:-translate-y-1 hover:border-pink-400 dark:border-slate-700 dark:bg-slate-900/70 dark:text-white">
                 <Stethoscope className="h-5 w-5 text-pink-600" />
-                <span data-cms-key="hero.secondaryCta" data-cms-label="Secondary button text">{get("hero.secondaryCta", "Meet Dr. Rudra")}</span>
+                <span data-cms-key="hero.secondaryCta" data-cms-label="Secondary button text">{get("hero.secondaryCta", "Meet Dr. Swathy Priya")}</span>
               </Link>
             </motion.div>
 
@@ -152,7 +152,7 @@ export default function HeroSectionV2({ content }: HeroProps) {
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <motion.img
                 src={get("hero.doctorImage", "/images/doctor-doll.png")}
-                alt="Dr. Rudra — main doctor portrait"
+                alt="Dr. Swathy Priya — main doctor portrait"
                 className="h-full w-full object-cover"
                 data-cms-key="hero.doctorImage"
                 data-cms-label="Main doctor photo"
@@ -161,7 +161,7 @@ export default function HeroSectionV2({ content }: HeroProps) {
               />
               <div className="absolute inset-x-0 bottom-0 h-44 bg-gradient-to-t from-pink-950/75 via-pink-900/25 to-transparent" />
               <div className="absolute bottom-8 left-8 right-8 text-white">
-                <p className="text-xs font-bold uppercase tracking-[0.22em] text-pink-100">Dr. Rudra Wellness Centre</p>
+                <p className="text-xs font-bold uppercase tracking-[0.22em] text-pink-100">Dr. Swathy Priya Wellness Centre</p>
                 <p className="mt-2 max-w-sm text-xl font-bold leading-tight" data-cms-key="hero.photoLabel" data-cms-label="Doctor photo caption">
                   {get("hero.photoLabel", "Personalised wellness, thoughtfully delivered")}
                 </p>

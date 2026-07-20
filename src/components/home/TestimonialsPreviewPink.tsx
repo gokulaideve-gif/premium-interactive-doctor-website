@@ -9,7 +9,7 @@ const testimonials = [
   {
     name: "Priya Sharma",
     role: "Patient",
-    content: "Dr. Rudra and his team treated me with such kindness and compassion. I felt truly cared for throughout my treatment. Exceptional healthcare!",
+    content: "Dr. Swathy Priya and the team treated me with such kindness and compassion. I felt truly cared for throughout my treatment. Exceptional healthcare!",
     rating: 5,
     image: "PS",
   },
@@ -23,7 +23,7 @@ const testimonials = [
   {
     name: "Anjali Patel",
     role: "Patient",
-    content: "I've never experienced such personalized care. Dr. Rudra listens carefully and treats you like family. Highly recommended!",
+    content: "I've never experienced such personalized care. Dr. Swathy Priya listens carefully and treats you like family. Highly recommended!",
     rating: 5,
     image: "AP",
   },
@@ -68,7 +68,7 @@ export default function TestimonialsPreviewPink() {
             Stories of Wellness
           </h2>
           <p className="mt-4 text-lg text-slate-600 dark:text-slate-400 max-w-2xl mx-auto">
-            Hear from patients who have experienced Dr. Rudra Wellness Centre's compassionate care.
+            Hear from patients who have experienced Dr. Swathy Priya Wellness Centre's compassionate care.
           </p>
         </motion.div>
 

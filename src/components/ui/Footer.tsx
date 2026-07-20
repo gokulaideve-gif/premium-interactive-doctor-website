@@ -52,9 +52,9 @@ export default function Footer() {
           >
             <Link href="/" className="flex items-center gap-3 mb-6">
               {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img src="/images/rudra-logo.svg" alt="Dr. Rudra Wellness Centre logo" className="h-14 w-14 rounded-full object-contain" data-cms-key="brand.logo" data-cms-label="Website logo" />
+              <img src="/images/rudra-logo.svg" alt="Dr. Swathy Priya Wellness Centre logo" className="h-14 w-14 rounded-full object-contain" data-cms-key="brand.logo" data-cms-label="Website logo" />
               <div>
-                <h3 className="text-lg font-bold" data-cms-key="brand.shortName" data-cms-label="Short brand name">Dr. Rudra</h3>
+                <h3 className="text-lg font-bold" data-cms-key="brand.shortName" data-cms-label="Short brand name">Dr. Swathy Priya</h3>
                 <p className="text-[10px] font-bold uppercase tracking-[0.18em] text-pink-400" data-cms-key="brand.tagline" data-cms-label="Brand tagline">Wellness Centre</p>
               </div>
             </Link>

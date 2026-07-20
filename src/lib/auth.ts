@@ -35,7 +35,7 @@ export async function ensureDefaultAdmin() {
     .insert(adminUsers)
     .values({
       username: username.toLowerCase(),
-      displayName: "Dr. Rudra",
+      displayName: "Dr. Swathy Priya",
       passwordHash,
       role: "admin",
     })

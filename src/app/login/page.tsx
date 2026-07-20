@@ -54,7 +54,7 @@ export default function LoginPage() {
       <motion.div initial={{ opacity: 0, y: 24, scale: 0.98 }} animate={{ opacity: 1, y: 0, scale: 1 }} transition={{ duration: 0.7, ease: [0.16, 1, 0.3, 1] }} className="relative z-10 w-full max-w-md overflow-hidden rounded-[2.5rem] border border-pink-100 bg-white/90 p-7 shadow-[0_35px_100px_rgba(157,23,77,0.15)] backdrop-blur-2xl dark:border-pink-950 dark:bg-slate-900/90 sm:p-9">
         <div className="text-center">
           {/* eslint-disable-next-line @next/next/no-img-element */}
-          <motion.img src="/images/rudra-logo.svg" alt="Dr. Rudra Wellness Centre" className="mx-auto h-24 w-24 rounded-full shadow-xl shadow-pink-500/20" whileHover={{ rotate: 5, scale: 1.04 }} />
+          <motion.img src="/images/rudra-logo.svg" alt="Dr. Swathy Priya Wellness Centre" className="mx-auto h-24 w-24 rounded-full shadow-xl shadow-pink-500/20" whileHover={{ rotate: 5, scale: 1.04 }} />
           <p className="mt-6 text-xs font-black uppercase tracking-[0.2em] text-pink-600">Secure administration</p>
           <h1 className="mt-2 text-3xl font-black tracking-[-0.04em] text-slate-950 dark:text-white">Admin Studio</h1>
           <p className="mt-2 text-sm leading-6 text-slate-500 dark:text-slate-400">Sign in to change every text, image, logo, doctor photo and achievement.</p>

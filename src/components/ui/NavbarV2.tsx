@@ -41,7 +41,7 @@ export default function NavbarV2() {
   }, []);
 
   const logo = content["brand.logo"] || "/images/rudra-logo.svg";
-  const shortName = content["brand.shortName"] || "Dr. Rudra";
+  const shortName = content["brand.shortName"] || "Dr. Swathy Priya";
   const tagline = content["brand.tagline"] || "Wellness Centre";
   const phone = content["contact.phone"] || "+1 (234) 567-890";
 
@@ -66,7 +66,7 @@ export default function NavbarV2() {
                 {/* eslint-disable-next-line @next/next/no-img-element */}
                 <img
                   src={logo}
-                  alt="Dr. Rudra Wellness Centre logo"
+                  alt="Dr. Swathy Priya Wellness Centre logo"
                   className="h-full w-full object-contain"
                   data-cms-key="brand.logo"
                   data-cms-label="Website logo"

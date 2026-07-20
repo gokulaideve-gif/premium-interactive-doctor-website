@@ -34,7 +34,7 @@ export default function CTASectionPink() {
             Start Your Wellness Journey Today
           </h2>
           <p className="text-lg text-white/80 mb-10 max-w-2xl mx-auto">
-            Schedule your appointment with Dr. Rudra Wellness Centre and experience compassionate, world-class healthcare for you and your family.
+            Schedule your appointment with Dr. Swathy Priya Wellness Centre and experience compassionate, world-class healthcare for you and your family.
           </p>
         </motion.div>
 

@@ -31,7 +31,7 @@ export default function WhyChooseUsPink() {
             Care You Can Trust
           </motion.h2>
           <motion.p variants={fadeInUp} className="mt-4 text-lg text-slate-600 dark:text-slate-400 max-w-2xl mx-auto">
-            Dr. Rudra Wellness Centre combines medical excellence with heartfelt compassion.
+            Dr. Swathy Priya Wellness Centre combines medical excellence with heartfelt compassion.
           </motion.p>
         </motion.div>
 
