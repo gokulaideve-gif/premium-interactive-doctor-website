@@ -103,7 +103,7 @@ export default function ContactPage() {
               {/* Map */}
               <motion.div variants={fadeInUp} className="rounded-2xl overflow-hidden h-64 bg-slate-100 dark:bg-slate-800 border border-slate-200 dark:border-slate-700">
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1000!2d79.1093942!3d12.8480767!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bad3c07541b86e5%3A0xc573f5b994ae3b14!2s75%20Amirthi%20Rd%2C%20Pennathur%2C%20Tamil%20Nadu%20632058!5e0!3m2!1sen!2sin!4v1"
+                  src="https://www.google.com/maps?q=75+Amirthi+Rd+Pennathur+Tamil+Nadu+632058&output=embed"
                   width="100%"
                   height="100%"
                   style={{ border: 0 }}
