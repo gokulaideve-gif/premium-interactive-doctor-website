@@ -30,7 +30,7 @@ export const cmsDefaults: CmsFieldDefinition[] = [
   { page: "home", key: "hero.doctorImage", label: "Main doctor photo", value: "/images/doctor.jpg", valueType: "image", groupName: "Opening media", sortOrder: 30 },
   { page: "home", key: "hero.mascotImage", label: "Animated doctor doll", value: "/images/doctor.jpg", valueType: "image", groupName: "Opening media", sortOrder: 31 },
   { page: "home", key: "hero.photoLabel", label: "Doctor photo caption", value: "Dr. Swathy Priya MBBS", valueType: "text", groupName: "Opening media", sortOrder: 32 },
-  { page: "home", key: "stats.experience.value", label: "Experience value", value: "20+", valueType: "text", groupName: "Opening statistics", sortOrder: 40 },
+  { page: "home", key: "stats.experience.value", label: "Experience value", value: "2+", valueType: "text", groupName: "Opening statistics", sortOrder: 40 },
   { page: "home", key: "stats.experience.label", label: "Experience label", value: "Years of care", valueType: "text", groupName: "Opening statistics", sortOrder: 41 },
   { page: "home", key: "stats.patients.value", label: "Patient value", value: "50K+", valueType: "text", groupName: "Opening statistics", sortOrder: 42 },
   { page: "home", key: "stats.patients.label", label: "Patient label", value: "Happy patients", valueType: "text", groupName: "Opening statistics", sortOrder: 43 },

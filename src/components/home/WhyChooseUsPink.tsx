@@ -5,7 +5,7 @@ import { Award, Users, Clock, Shield, ThumbsUp, Heart } from "lucide-react";
 import { fadeInUp, staggerContainer } from "@/lib/animations";
 
 const features = [
-  { icon: Award, title: "20+ Years Experience", desc: "Trusted expertise in healthcare excellence." },
+  { icon: Award, title: "2+ Years Experience", desc: "Trusted expertise in healthcare excellence." },
   { icon: Users, title: "Expert Team", desc: "Compassionate doctors dedicated to your care." },
   { icon: Clock, title: "24/7 Availability", desc: "Always here when you need medical support." },
   { icon: Shield, title: "Safe & Secure", desc: "Your health information protected with care." },
