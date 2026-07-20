@@ -83,7 +83,7 @@ export default function ContactPage() {
               {/* WhatsApp / Emergency */}
               <motion.div variants={fadeInUp} className="grid grid-cols-2 gap-4">
                 <a
-                  href="https://wa.me/1234567890"
+                  href="https://wa.me/917904676870"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center justify-center gap-2 p-4 rounded-2xl bg-emerald-500 text-white font-medium hover:bg-emerald-600 transition-colors"

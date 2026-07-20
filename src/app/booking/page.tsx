@@ -253,7 +253,7 @@ export default function BookingPage() {
           >
             <p className="text-slate-700 dark:text-slate-300 mb-4">Or book via WhatsApp</p>
             <a
-              href="https://wa.me/1234567890"
+              href="https://wa.me/917904676870"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-6 py-3 bg-emerald-500 text-white font-medium rounded-full hover:bg-emerald-600 transition-colors"
