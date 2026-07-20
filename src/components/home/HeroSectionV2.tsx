@@ -26,10 +26,10 @@ export default function HeroSectionV2({ content }: HeroProps) {
 
   const get = (key: string, fallback: string) => content[`home:${key}`] || content[`global:${key}`] || fallback;
   const stats = [
-    [get("stats.experience.value", "20+"), get("stats.experience.label", "Years of care"), "stats.experience"],
-    [get("stats.patients.value", "50K+"), get("stats.patients.label", "Happy patients"), "stats.patients"],
+    [get("stats.experience.value", "2+"), get("stats.experience.label", "Year Excellence"), "stats.experience"],
+    [get("stats.patients.value", "5000+"), get("stats.patients.label", "Happy Patients"), "stats.patients"],
     [get("stats.success.value", "99%"), get("stats.success.label", "Patient satisfaction"), "stats.success"],
-    [get("stats.access.value", "24/7"), get("stats.access.label", "Care access"), "stats.access"],
+    [get("stats.access.value", "1"), get("stats.access.label", "Clinic Centre"), "stats.access"],
   ];
 
   return (

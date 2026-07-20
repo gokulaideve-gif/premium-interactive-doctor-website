@@ -219,10 +219,10 @@ export default function HeroSection() {
           className="mt-16 grid grid-cols-2 md:grid-cols-4 gap-8 max-w-3xl mx-auto"
         >
           {[
-            { value: "15+", label: "Years Experience" },
-            { value: "50K+", label: "Happy Patients" },
+            { value: "2+", label: "Year Excellence" },
+            { value: "5000+", label: "Happy Patients" },
             { value: "99%", label: "Success Rate" },
-            { value: "24/7", label: "Emergency Care" },
+            { value: "1", label: "Clinic Centre" },
           ].map((stat, i) => (
             <motion.div
               key={i}

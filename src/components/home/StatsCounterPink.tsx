@@ -40,10 +40,10 @@ function Counter({ end, suffix = "", duration = 2000 }: { end: number; suffix?: 
 }
 
 const stats = [
-  { icon: Users, value: 50000, suffix: "+", label: "Happy Patients", color: "from-pink-400 to-rose-500" },
-  { icon: Award, value: 2, suffix: "+", label: "Years Excellence", color: "from-rose-400 to-red-500" },
+  { icon: Users, value: 5000, suffix: "+", label: "Happy Patients", color: "from-pink-400 to-rose-500" },
+  { icon: Award, value: 2, suffix: "+", label: "Year Excellence", color: "from-rose-400 to-red-500" },
   { icon: Heart, value: 99, suffix: "%", label: "Success Rate", color: "from-pink-400 to-rose-500" },
-  { icon: Building, value: 8, suffix: "", label: "Clinic Centers", color: "from-rose-400 to-pink-500" },
+  { icon: Building, value: 1, suffix: "", label: "Clinic Centre", color: "from-rose-400 to-pink-500" },
 ];
 
 export default function StatsCounterPink() {
