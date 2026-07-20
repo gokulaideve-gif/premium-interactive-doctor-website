@@ -126,7 +126,7 @@ export default function Footer() {
             <ul className="space-y-4">
               <li className="flex items-start gap-3">
                 <MapPin className="w-5 h-5 text-cyan-400 shrink-0 mt-0.5" />
-                <span className="text-slate-400 text-sm">123 Healthcare Ave, Medical District, NY 10001</span>
+                <span className="text-slate-400 text-sm">75, Amirthi Rd, Pennathur, Tamil Nadu 632058</span>
               </li>
               <li className="flex items-center gap-3">
                 <Phone className="w-5 h-5 text-cyan-400 shrink-0" />
@@ -134,7 +134,7 @@ export default function Footer() {
               </li>
               <li className="flex items-center gap-3">
                 <Mail className="w-5 h-5 text-cyan-400 shrink-0" />
-                <a href="mailto:info@medicare.com" className="text-slate-400 hover:text-white text-sm transition-colors">info@medicare.com</a>
+                <a href="mailto:care@drrudrawellness.com" className="text-slate-400 hover:text-white text-sm transition-colors">care@drrudrawellness.com</a>
               </li>
               <li className="flex items-center gap-3">
                 <Clock className="w-5 h-5 text-cyan-400 shrink-0" />
@@ -147,7 +147,7 @@ export default function Footer() {
         {/* Bottom Bar */}
         <div className="mt-16 pt-8 border-t border-white/10 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-slate-500 text-sm">
-            © 2026 MediCare. All rights reserved.
+            © 2026 Dr. Rudra Wellness Centre. All rights reserved.
           </p>
           <div className="flex items-center gap-6">
             <Link href="/privacy" className="text-slate-500 hover:text-slate-300 text-sm transition-colors">Privacy</Link>

@@ -53,9 +53,9 @@ export default function ContactPage() {
 
               <div className="space-y-4">
                 {[
-                  { icon: MapPin, title: "Visit Us", desc: "123 Healthcare Ave, Medical District, NY 10001" },
+                  { icon: MapPin, title: "Visit Us", desc: "75, Amirthi Rd, Pennathur, Tamil Nadu 632058" },
                   { icon: Phone, title: "Call Us", desc: "+1 (234) 567-890", href: "tel:+1234567890" },
-                  { icon: Mail, title: "Email Us", desc: "info@medicare.com", href: "mailto:info@medicare.com" },
+                  { icon: Mail, title: "Email Us", desc: "care@drrudrawellness.com", href: "mailto:care@drrudrawellness.com" },
                   { icon: Clock, title: "Office Hours", desc: "Mon-Sat: 8:00 AM - 8:00 PM" },
                 ].map((item, i) => (
                   <motion.div
@@ -103,7 +103,7 @@ export default function ContactPage() {
               {/* Map */}
               <motion.div variants={fadeInUp} className="rounded-2xl overflow-hidden h-64 bg-slate-100 dark:bg-slate-800 border border-slate-200 dark:border-slate-700">
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d193595.1583091352!2d-74.1197639730467!3d40.69766374859291!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew+York%2C+NY!5e0!3m2!1sen!2sus!4v1!4m8!1m7!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew+York%2C+NY!3b1!8m2!3d40.7127753!4d-74.0059728"
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1000!2d79.1093942!3d12.8480767!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bad3c07541b86e5%3A0xc573f5b994ae3b14!2s75%20Amirthi%20Rd%2C%20Pennathur%2C%20Tamil%20Nadu%20632058!5e0!3m2!1sen!2sin!4v1"
                   width="100%"
                   height="100%"
                   style={{ border: 0 }}

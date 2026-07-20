@@ -19,7 +19,7 @@ export const cmsDefaults: CmsFieldDefinition[] = [
   { page: "global", key: "brand.logo", label: "Website logo", value: "/images/rudra-logo.svg", valueType: "image", groupName: "Brand", sortOrder: 4 },
   { page: "global", key: "contact.phone", label: "Phone number", value: "+1 (234) 567-890", valueType: "text", groupName: "Contact", sortOrder: 10 },
   { page: "global", key: "contact.email", label: "Email address", value: "care@drswathypriya.com", valueType: "text", groupName: "Contact", sortOrder: 11 },
-  { page: "global", key: "contact.address", label: "Centre address", value: "123 Wellness Avenue, Medical District", valueType: "textarea", groupName: "Contact", sortOrder: 12 },
+  { page: "global", key: "contact.address", label: "Centre address", value: "75, Amirthi Rd, Pennathur, Tamil Nadu 632058", valueType: "textarea", groupName: "Contact", sortOrder: 12 },
   { page: "global", key: "contact.whatsapp", label: "WhatsApp number", value: "+1234567890", valueType: "text", groupName: "Contact", sortOrder: 13 },
   { page: "home", key: "hero.eyebrow", label: "Opening availability label", value: "Compassionate care • Appointments available", valueType: "text", groupName: "Opening page", sortOrder: 20 },
   { page: "home", key: "hero.title", label: "Main opening title", value: "DR. SWATHY PRIYA", valueType: "text", groupName: "Opening page", sortOrder: 21 },
