@@ -161,7 +161,7 @@ export default function HeroSectionV2({ content }: HeroProps) {
               />
               <div className="absolute inset-x-0 bottom-0 h-44 bg-gradient-to-t from-pink-950/75 via-pink-900/25 to-transparent" />
               <div className="absolute bottom-8 left-8 right-8 text-white">
-                <p className="text-xs font-bold uppercase tracking-[0.22em] text-pink-100">Dr. Swathy Priya Wellness Centre</p>
+                <p className="text-xs font-bold uppercase tracking-[0.22em] text-pink-100">Dr. Rudra Wellness Centre</p>
                 <p className="mt-2 max-w-sm text-xl font-bold leading-tight" data-cms-key="hero.photoLabel" data-cms-label="Doctor photo caption">
                   {get("hero.photoLabel", "Personalised wellness, thoughtfully delivered")}
                 </p>

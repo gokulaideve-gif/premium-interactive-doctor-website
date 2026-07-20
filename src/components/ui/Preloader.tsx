@@ -70,7 +70,7 @@ export default function Preloader() {
             transition={{ delay: 0.3, duration: 0.5 }}
             className="mt-6 text-2xl font-bold bg-gradient-to-r from-pink-600 to-rose-600 bg-clip-text text-transparent"
           >
-            Dr. Swathy Priya
+            Dr. Rudra
           </motion.h2>
 
           <motion.p

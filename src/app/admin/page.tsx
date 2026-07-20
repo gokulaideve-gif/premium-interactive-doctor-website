@@ -248,7 +248,7 @@ export default function AdminStudioPage() {
           <div className="flex items-center gap-3">
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img src="/images/rudra-logo.svg" alt="Dr. Swathy Priya logo" className="h-12 w-12 rounded-full" />
-            <div><p className="font-black">Admin Studio</p><p className="text-xs font-semibold text-pink-600">Dr. Swathy Priya Wellness</p></div>
+            <div><p className="font-black">Admin Studio</p><p className="text-xs font-semibold text-pink-600">Dr. Rudra Wellness</p></div>
           </div>
           <button onClick={() => setMenuOpen(false)} className="rounded-full bg-pink-50 p-2 lg:hidden"><X className="h-4 w-4" /></button>
         </div>

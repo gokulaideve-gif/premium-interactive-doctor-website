@@ -13,8 +13,8 @@ export type CmsFieldDefinition = {
 };
 
 export const cmsDefaults: CmsFieldDefinition[] = [
-  { page: "global", key: "brand.name", label: "Centre name", value: "DR. SWATHY PRIYA WELLNESS CENTRE", valueType: "text", groupName: "Brand", sortOrder: 1 },
-  { page: "global", key: "brand.shortName", label: "Short brand name", value: "Dr. Swathy Priya", valueType: "text", groupName: "Brand", sortOrder: 2 },
+  { page: "global", key: "brand.name", label: "Centre name", value: "DR. RUDRA WELLNESS CENTRE", valueType: "text", groupName: "Brand", sortOrder: 1 },
+  { page: "global", key: "brand.shortName", label: "Short brand name", value: "Dr. Rudra", valueType: "text", groupName: "Brand", sortOrder: 2 },
   { page: "global", key: "brand.tagline", label: "Brand tagline", value: "Wellness Centre", valueType: "text", groupName: "Brand", sortOrder: 3 },
   { page: "global", key: "brand.logo", label: "Website logo", value: "/images/rudra-logo.svg", valueType: "image", groupName: "Brand", sortOrder: 4 },
   { page: "global", key: "contact.phone", label: "Phone number", value: "+1 (234) 567-890", valueType: "text", groupName: "Contact", sortOrder: 10 },
@@ -29,7 +29,7 @@ export const cmsDefaults: CmsFieldDefinition[] = [
   { page: "home", key: "hero.secondaryCta", label: "Secondary button text", value: "Meet Dr. Swathy Priya", valueType: "text", groupName: "Opening page", sortOrder: 25 },
   { page: "home", key: "hero.doctorImage", label: "Main doctor photo", value: "/images/doctor.jpg", valueType: "image", groupName: "Opening media", sortOrder: 30 },
   { page: "home", key: "hero.mascotImage", label: "Animated doctor doll", value: "/images/doctor.jpg", valueType: "image", groupName: "Opening media", sortOrder: 31 },
-  { page: "home", key: "hero.photoLabel", label: "Doctor photo caption", value: "Dr. Swathy Priya", valueType: "text", groupName: "Opening media", sortOrder: 32 },
+  { page: "home", key: "hero.photoLabel", label: "Doctor photo caption", value: "Dr. Swathy Priya MBBS", valueType: "text", groupName: "Opening media", sortOrder: 32 },
   { page: "home", key: "stats.experience.value", label: "Experience value", value: "20+", valueType: "text", groupName: "Opening statistics", sortOrder: 40 },
   { page: "home", key: "stats.experience.label", label: "Experience label", value: "Years of care", valueType: "text", groupName: "Opening statistics", sortOrder: 41 },
   { page: "home", key: "stats.patients.value", label: "Patient value", value: "50K+", valueType: "text", groupName: "Opening statistics", sortOrder: 42 },

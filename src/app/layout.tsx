@@ -7,11 +7,11 @@ import Preloader from "@/components/ui/Preloader";
 
 export const metadata: Metadata = {
   title: {
-    default: "Dr. Swathy Priya Wellness Centre",
-    template: "%s | Dr. Swathy Priya Wellness Centre",
+    default: "Dr. Rudra Wellness Centre",
+    template: "%s | Dr. Rudra Wellness Centre",
   },
-  description: "Compassionate whole-person healthcare at Dr. Swathy Priya Wellness Centre.",
-  keywords: "Dr Swathy Priya, wellness centre, doctor, healthcare, medical clinic, appointment",
+  description: "Compassionate whole-person healthcare at Dr. Rudra Wellness Centre.",
+  keywords: "Dr Rudra, wellness centre, doctor, healthcare, medical clinic, appointment",
 };
 
 export default function RootLayout({ children }: { children: ReactNode }) {

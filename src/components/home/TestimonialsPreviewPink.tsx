@@ -68,7 +68,7 @@ export default function TestimonialsPreviewPink() {
             Stories of Wellness
           </h2>
           <p className="mt-4 text-lg text-slate-600 dark:text-slate-400 max-w-2xl mx-auto">
-            Hear from patients who have experienced Dr. Swathy Priya Wellness Centre's compassionate care.
+            Hear from patients who have experienced Dr. Rudra Wellness Centre's compassionate care.
           </p>
         </motion.div>
 
