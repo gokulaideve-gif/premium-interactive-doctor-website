@@ -94,7 +94,7 @@ export default function Navbar() {
               )}
 
               <motion.a
-                href="tel:+1234567890"
+                href="tel:+917904676870"
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
                 className="hidden sm:flex items-center gap-2 px-4 py-2 bg-gradient-to-r from-cyan-500 to-teal-500 text-white text-sm font-medium rounded-full hover:shadow-lg hover:shadow-cyan-500/25 transition-all duration-300"

@@ -17,7 +17,7 @@ export const cmsDefaults: CmsFieldDefinition[] = [
   { page: "global", key: "brand.shortName", label: "Short brand name", value: "Dr. Rudra", valueType: "text", groupName: "Brand", sortOrder: 2 },
   { page: "global", key: "brand.tagline", label: "Brand tagline", value: "Wellness Centre", valueType: "text", groupName: "Brand", sortOrder: 3 },
   { page: "global", key: "brand.logo", label: "Website logo", value: "/images/rudra-logo.svg", valueType: "image", groupName: "Brand", sortOrder: 4 },
-  { page: "global", key: "contact.phone", label: "Phone number", value: "+1 (234) 567-890", valueType: "text", groupName: "Contact", sortOrder: 10 },
+  { page: "global", key: "contact.phone", label: "Phone number", value: "+91 7904676870", valueType: "text", groupName: "Contact", sortOrder: 10 },
   { page: "global", key: "contact.email", label: "Email address", value: "care@drswathypriya.com", valueType: "text", groupName: "Contact", sortOrder: 11 },
   { page: "global", key: "contact.address", label: "Centre address", value: "75, Amirthi Rd, Pennathur, Tamil Nadu 632058", valueType: "textarea", groupName: "Contact", sortOrder: 12 },
   { page: "global", key: "contact.whatsapp", label: "WhatsApp number", value: "+917904676870", valueType: "text", groupName: "Contact", sortOrder: 13 },

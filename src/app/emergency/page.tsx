@@ -66,13 +66,13 @@ export default function EmergencyPage() {
             Call 911
           </motion.a>
           <motion.a
-            href="tel:+1234567890"
+            href="tel:+917904676870"
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
             className="inline-flex items-center gap-2 px-8 py-5 bg-white dark:bg-slate-800 text-slate-900 dark:text-white font-semibold rounded-full shadow-lg border border-slate-200 dark:border-slate-700"
           >
             <Phone className="w-5 h-5" />
-            +1 (234) 567-890
+            +91 7904676870
           </motion.a>
         </motion.div>
 

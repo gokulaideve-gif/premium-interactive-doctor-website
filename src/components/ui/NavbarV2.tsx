@@ -43,7 +43,7 @@ export default function NavbarV2() {
   const logo = content["brand.logo"] || "/images/rudra-logo.svg";
   const shortName = content["brand.shortName"] || "Dr. Rudra";
   const tagline = content["brand.tagline"] || "Wellness Centre";
-  const phone = content["contact.phone"] || "+1 (234) 567-890";
+  const phone = content["contact.phone"] || "+91 7904676870";
 
   return (
     <>

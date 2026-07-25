@@ -54,7 +54,7 @@ export default function ContactPage() {
               <div className="space-y-4">
                 {[
                   { icon: MapPin, title: "Visit Us", desc: "75, Amirthi Rd, Pennathur, Tamil Nadu 632058" },
-                  { icon: Phone, title: "Call Us", desc: "+1 (234) 567-890", href: "tel:+1234567890" },
+                  { icon: Phone, title: "Call Us", desc: "+91 7904676870", href: "tel:+917904676870" },
                   { icon: Mail, title: "Email Us", desc: "care@drrudrawellness.com", href: "mailto:care@drrudrawellness.com" },
                   { icon: Clock, title: "Office Hours", desc: "Mon-Sat: 8:00 AM - 8:00 PM" },
                 ].map((item, i) => (
@@ -92,7 +92,7 @@ export default function ContactPage() {
                   WhatsApp
                 </a>
                 <a
-                  href="tel:+1234567890"
+                  href="tel:+917904676870"
                   className="flex items-center justify-center gap-2 p-4 rounded-2xl bg-rose-500 text-white font-medium hover:bg-rose-600 transition-colors"
                 >
                   <Phone className="w-5 h-5" />

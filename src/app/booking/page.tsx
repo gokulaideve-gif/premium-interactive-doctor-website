@@ -170,7 +170,7 @@ export default function BookingPage() {
                   <input
                     {...register("phone", { required: "Phone is required" })}
                     className="w-full px-4 py-3 rounded-xl bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 focus:border-cyan-400 dark:focus:border-cyan-500 focus:ring-2 focus:ring-cyan-400/20 outline-none transition-all text-slate-900 dark:text-white"
-                    placeholder="+1 (234) 567-890"
+                    placeholder="+91 7904676870"
                   />
                   {errors.phone && <p className="text-red-500 text-sm mt-1">{errors.phone.message}</p>}
                 </div>

@@ -19,7 +19,7 @@ export default function PrivacyPage() {
           <p>You have the right to access, correct, or delete your personal information. Contact us to exercise these rights.</p>
           
           <h2>Contact Us</h2>
-          <p>If you have questions about this privacy policy, please contact us at privacy@medicare.com.</p>
+          <p>If you have questions about this privacy policy, please contact us at care@drrudrawellness.com.</p>
           
           <p className="text-sm text-slate-500 mt-8">Last updated: March 2026</p>
         </div>
